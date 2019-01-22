@@ -1,2 +1,2 @@
 # games-javascript
-Juegos hechos desde scratch
+Juegos en canvas hechos con javascript
